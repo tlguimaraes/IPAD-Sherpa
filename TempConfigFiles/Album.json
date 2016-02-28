@@ -1,0 +1,8 @@
+[{"userId":1, "id":"1", "title":"Album Genial", "picture":"album.jpg"},
+ {"userId":2, "id":"2", "title":"Extravagante", "picture":"album.jpg"},
+ {"userId":1, "id":"3", "title":"Careta", "picture":"album.jpg"},
+ {"userId":1, "id":"4", "title":"Brazil 100%", "picture":"album.jpg"},
+ {"userId":1, "id":"5", "title":"Hablando Mucho", "picture":"album.jpg"},
+ {"userId":1, "id":"6", "title":"Como Te quiero", "picture":"album.jpg"},
+ {"userId":2, "id":"7", "title":"Dingo Bell", "picture":"album.jpg"},
+ {"userId":2, "id":"8", "title":"Negritude Junior", "picture":"album.jpg"}]

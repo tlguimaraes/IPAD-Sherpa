@@ -1,0 +1,3 @@
+[{"userId":1, "Name":"Alejandro Sans", "CompanyCatchPhrase":"London", "email":"uol@uol.com", "imageFile":"User.png", "detail":"1319"},
+ {"userId":2, "Name":"Ivete Sangalo", "CompanyCatchPhrase":"Miami", "email":"gmail@gmail.com", "imageFile":"User2.png", "detail":"1319"},
+ {"userId":3, "Name":"ROberto Carlos", "CompanyCatchPhrase":"Boston", "email":"terra@earth.com", "imageFile":"blank.png", "detail":"1319"}]
